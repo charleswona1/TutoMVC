@@ -1,0 +1,118 @@
+
+
+.listedemandePaiement{
+  
+  border: 3px rgb(212, 16, 16) solid;
+  height:467px;
+  width:1230px;
+  position: absolute;
+    left: 155px;
+      bottom: 30px;
+  
+  padding: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  
+  background-image:url('../Styles/Images/16.png');
+  color : black; 
+  word-wrap: break-word;
+  overflow: scroll;   
+}
+
+.demande{
+
+padding-bottom: 10px;
+padding-top: 10px;
+border-bottom: 1px solid red;
+padding-left: 20px;
+
+}
+
+.demande:hover{
+
+background-color:rgb(241, 206, 206);
+cursor: pointer;
+}
+
+.numero_demande{
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+padding-bottom: 10px;
+text-decoration: underline;
+color: maroon;
+}
+
+
+.element_demande{
+
+font-size: 18px;
+font-weight: bold;
+padding-bottom: 10px;
+}
+
+.element_demande1{
+
+text-decoration: underline;
+padding-right: 5px;
+
+}
+
+
+.details_demande{
+text-decoration: underline;
+font-weight: bold;
+font-style: italic;
+color:maroon;
+font-size: 20px;
+}
+
+.info_gen{
+
+float: left;
+width: 400px;
+}
+.info_gen_encours{
+
+float: right;
+width: 400px;
+
+}
+.info_serviceDemande{
+
+height: 120px;
+
+}
+.info_serviceDemandeencours{
+
+height: 120px;
+
+
+}
+.element_service{
+float: left;
+padding-right: 50px ;
+
+}
+.serviceunique{
+padding-top: 10px;
+padding-bottom: 10px;
+text-decoration: underline;
+font-weight: bold;
+font-style: italic;
+font-size: 17px;
+color:red;
+
+}
+
+.accepter_paiement{
+
+padding: 10px;
+
+}
+.bouton1{
+
+font-weight: bold;
+font-size: 15px;
+width: 200px;
+}

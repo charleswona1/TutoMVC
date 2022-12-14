@@ -1,0 +1,121 @@
+
+.login{
+
+
+  border: 3px #A52A2A solid;
+  border-radius: 10%;
+  
+  position: absolute;
+    top: 100px;
+    left: 250px;
+  
+  height: 450px;
+  width: 400px;
+  
+  }
+  .titre_login{
+  
+    color:black;
+    font-style: italic;
+    position: absolute; 
+    top: 10px;
+      left:90px;
+      text-shadow: 0 0 0.1em #00FF00;
+      font-size: 35px;
+  }
+  .email_login{
+       
+      font-weight: bold;
+      font-size: 18px;
+    color: black;
+    border-bottom: 1px black solid;
+  
+     position: absolute;
+    top: 130px;
+    left: 40px;
+  }
+  input[type="email"]:focus{
+    outline:none;
+  }
+  input[type="password"]:focus{
+    
+    outline:none
+  }
+  
+  .input_login {
+    height: 25px; 
+     width:250px;
+    border:none;
+    background-color: transparent;
+    font-size: 18px;
+        
+        
+     
+  }
+  .password_login{
+       
+      font-weight: bold;
+    font-size: 18px;
+    color: black;
+    border-bottom: 1px black solid;
+  
+     position: absolute;
+    top: 190px;
+    left: 40px;
+  }
+  .input_password {
+    height: 25px;
+     width:200px;
+     border:none;
+    background-color: transparent;
+    font-size: 18px;
+    
+     
+  }
+  .connexion_login{   
+    
+    font-weight: bold;
+    font-size: 15px;
+     position: absolute;
+    top: 260px;
+    left: 130px;	
+  height: 35px;
+     width:135px;
+     cursor: pointer;
+     border-radius: 8px;
+     border: 1px black solid;
+  }
+  .forget_password_login{
+    font-style: italic;
+    font-size: 12px;
+     position: absolute;
+    top: 320px;
+    left: 150px;
+  }
+  .inscription_login {  
+    
+    font-style: italic;
+    font-size: 15px;
+     position: absolute;
+    top: 360px;
+    left: 140px;
+  color:#1560BD;
+  }
+  .messagecompte{
+       
+    font-style: italic;
+    font-size: 20px;
+     position: absolute;
+    top: 590px;
+    left: 100px;
+  color:red;
+  }
+  body{
+  
+  background-image: url(Images/f2.jpg);
+    background-repeat:no-repeat;
+    background-position: 50px  -500px;
+    
+  
+  
+  }

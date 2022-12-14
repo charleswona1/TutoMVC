@@ -1,0 +1,31 @@
+
+.footer{
+
+  text-align: center;
+  position: fixed;
+       bottom: 0px;
+       
+  
+  width: 1370px;
+  height: 30px;
+  
+  
+  border-top: solid 3px rgb(212, 16, 16);
+  
+  
+     
+  background-image:url('../Styles/Images/16.png');
+      
+  
+    color : black;
+  }
+  
+  .element_footer{
+  
+    font-size: 15px;
+   
+    position: fixed;
+       top: 620px;
+       left:560px;
+  
+  }

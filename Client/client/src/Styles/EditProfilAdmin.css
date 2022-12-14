@@ -1,0 +1,291 @@
+
+
+.EditProfilAdmin{
+
+  border: 3px rgb(212, 16, 16) solid;
+  height:427px;
+  width:421px;
+  position: absolute;
+    right: 0px;
+      bottom: 30px;
+  
+  padding: 20px;
+  
+
+  background-image:url('../Styles/Images/16.png');
+  color : black; 
+  word-wrap: break-word;
+  overflow: scroll; 
+} 
+
+.modif_nom{
+
+  text-decoration: underline;
+  font-size: 25px;
+  text-align: center;
+  padding: 10px;
+  font-weight: bold;
+  color:cornflowerblue;
+}
+
+.ancien_nom{
+ 
+  font-weight: bold;
+	font-size: 18px;
+	color: black;
+	border-bottom: 1px black solid;
+
+   position: absolute;
+	top: 100px;
+	left: 40px;
+}
+
+.input_ancien_nom{
+
+  height: 25px; 
+  width:200px;
+ border:none;
+ background-color: transparent;
+ font-size: 18px;
+
+}
+
+.nouveau_nom{
+
+  font-weight: bold;
+	font-size: 18px;
+	color: black;
+	border-bottom: 1px black solid;
+
+   position: absolute;
+	top: 150px;
+	left: 40px;
+
+}
+
+.input_nouveau_nom{
+
+  height: 25px; 
+  width:185px;
+ border:none;
+ background-color: transparent;
+ font-size: 18px;
+
+}
+
+.modifiez_nom{
+
+  font-weight: bold;
+  font-size: 15px;
+   position: absolute;
+	top: 205px;
+	left: 130px;	
+height: 35px;
+   width:135px;
+   cursor: pointer;
+   border-radius: 8px;
+   border: 1px black solid;
+}
+
+.modif_passwordE{
+
+  font-size: 25px;
+  text-decoration: underline;
+  text-align: center;
+  padding-top: 195px;
+  font-weight: bold;
+  color:cornflowerblue;
+  	
+}
+
+.last_password{
+  font-weight: bold;
+	font-size: 18px;
+	color: black;
+	border-bottom: 1px black solid;
+   position: absolute;
+	top: 320px;
+	left: 40px;
+}
+
+.input_last_password{
+  height: 25px; 
+  width:185px;
+ border:none;
+ background-color: transparent;
+ font-size: 18px;
+}
+
+.new_password{
+  font-weight: bold;
+	font-size: 18px;
+	color: black;
+	border-bottom: 1px black solid;
+ 
+   position: absolute;
+	top: 380px;
+	left: 40px;
+}
+
+.input_new_password{
+  height: 25px; 
+  width:160px;
+ border:none;
+ background-color: transparent;
+ font-size: 18px;
+}
+
+.confirm_new_password{
+  font-weight: bold;
+	font-size: 18px;
+	color: black;
+	border-bottom: 1px black solid;
+ 
+   position: absolute;
+	top: 450px;
+	left: 40px;
+}
+
+.input_confirm_new_password{
+  height: 25px; 
+  width:265px;
+ border:none;
+ background-color: transparent;
+ font-size: 18px;
+}
+
+.modifiez_password{
+
+  font-weight: bold;
+  font-size: 15px;
+   position: absolute;
+	top: 510px;
+	left: 130px;	
+  height: 35px;
+  width:135px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: 1px black solid;
+}
+
+.modif_email{
+
+  font-size: 25px;
+  text-decoration: underline;
+  text-align: center;
+  padding-top: 275px;
+  font-weight: bold;
+  color:cornflowerblue;
+}
+
+.ancien_mail{
+
+  font-weight: bold;
+	font-size: 18px;
+	color: black;
+	border-bottom: 1px black solid;
+ 
+   position: absolute;
+	top: 620px;
+	left: 40px;
+}
+
+.input_ancien_mail{
+
+  height: 25px; 
+  width:265px;
+ border:none;
+ background-color: transparent;
+ font-size: 18px;
+}
+.new_email{
+  font-weight: bold;
+	font-size: 18px;
+	color: black;
+	border-bottom: 1px black solid;
+ 
+   position: absolute;
+	top: 680px;
+	left: 40px;
+}
+
+.input_new_email{
+  height: 25px; 
+  width:265px;
+ border:none;
+ background-color: transparent;
+ font-size: 18px;
+}
+
+.modifiez_email{
+
+  font-weight: bold;
+  font-size: 15px;
+   position: absolute;
+	top: 750px;
+	left: 130px;	
+  height: 35px;
+  width:135px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: 1px black solid;
+}
+
+.textVerificationCode{
+
+  font-weight: bold;
+  text-align: center;
+  padding-top: 220px;
+  font-weight: bold;
+  font-size: 18px;
+  color: red;
+  
+}
+.codeVerification{
+
+  font-weight: bold;
+	font-size: 18px;
+	color: black;
+	border-bottom: 1px black solid;
+ 
+   position: absolute;
+	top: 900px;
+	left: 40px;
+}
+.input_codeVerification{
+  height: 25px; 
+  width:190px;
+ border:none;
+ background-color: transparent;
+ font-size: 18px;
+}
+
+.modifiez_code{
+
+  font-weight: bold;
+  font-size: 15px;
+   position: absolute;
+	top: 60px;
+	left: 80px;	
+  height: 35px;
+  width:175px;
+  cursor: pointer;
+  border-radius: 8px;
+  border: 1px black solid;
+}
+
+
+
+
+
+
+.padding_space1{
+
+  border:none;
+  background-color: transparent;
+  position:absolute;
+  top:1200px;
+  height: 25px;
+  width:35px;
+   
+}

@@ -1,0 +1,20 @@
+
+
+.supportClient{
+
+  text-align: center;
+  border: 3px rgb(212, 16, 16) solid;
+  height:427px;
+  width:700px;
+  position: absolute;
+    left: 155px;
+      bottom: 30px;
+  
+  padding: 20px;
+  
+  background-image:url('../Styles/Images/16.png');
+  color : black; 
+  word-wrap: break-word;
+  overflow: scroll;   
+    
+} 

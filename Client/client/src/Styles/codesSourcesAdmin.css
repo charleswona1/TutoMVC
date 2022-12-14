@@ -1,0 +1,58 @@
+
+
+.codeSources{
+  text-align: center;
+    border: 3px rgb(212, 16, 16) solid;
+    height:427px;
+    width: 1170px;
+    position: absolute;
+      left: 155px;
+        bottom: 30px;
+    
+    padding: 20px;
+    
+    background-image:url('../Styles/Images/16.png');
+    color : black; 
+    word-wrap: break-word;
+    overflow: scroll;   
+}
+
+.documentation{
+
+  color:cornflowerblue;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.brief{
+  padding-top: 10px;
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.titre_service{
+  color:red;
+  padding-top: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+
+.navbar_code{
+
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  background-color: white;
+  height: 200px;
+
+}
+
+.textarea{
+
+ 
+  height: 300px;
+
+  width: 600px;
+}

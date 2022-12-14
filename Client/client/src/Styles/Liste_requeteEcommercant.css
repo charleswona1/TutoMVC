@@ -1,0 +1,215 @@
+
+.ListeRequete{
+
+  border: 3px rgb(212, 16, 16) solid;
+  height:427px;
+  width:700px;
+  position: absolute;
+    left: 155px;
+      bottom: 30px;
+  
+  padding: 20px;
+  
+  background-image:url('../Styles/Images/16.png');
+  color : black; 
+  word-wrap: break-word;
+  overflow: scroll;   
+
+
+}
+
+.req_traitement{
+
+font-size: 35px;
+text-align: center;
+padding: 10px;
+font-weight: bold;
+color:rgb(9, 89, 238);
+text-decoration: underline;
+font-family:'Times New Roman', Times, serif;
+}
+.message_req_vide{
+
+font-size: 20px;
+font-style: italic;
+text-align: center;
+padding: 10px;
+}
+
+
+.info_requete{
+
+width: 430px;
+float:left;
+}
+.services_requete{
+
+height: 280px;
+border-bottom: 1px solid red;
+border-top: 1px solid red;
+
+}
+
+.numero_requete{
+
+font-weight: bold;
+padding:5px;
+text-align: left;
+text-decoration: underline;
+font-style: italic;
+color: red; 
+}
+
+.element_requete{
+
+padding: 8px;
+
+
+}
+.element_requete2{
+font-weight: bold;
+text-decoration: underline;
+padding-right: 5px;
+font-size: 18px;
+}
+
+
+.header_service_requete{
+font-weight: bold;
+padding-top:35px;
+padding-bottom: 8px;
+text-decoration: underline;
+font-style: italic;
+text-align: center;
+color:red;
+
+}
+
+.services_orange{
+
+font-weight: bold;
+padding-bottom: 8px;
+text-align: center;
+text-decoration: underline;
+color:blue;
+
+
+}
+
+.nom_service{
+padding-bottom: 20px;
+text-align: center;
+}
+
+.nom_service2{
+
+font-weight: bold;
+text-decoration: underline;
+padding-right: 5px;
+
+font-size: 15px;
+
+}
+
+
+@keyframes rotationFleche {
+0% {
+  transform: rotate(0deg);
+}
+30%{
+  transform: rotate(-20deg);
+}
+60%{
+  transform: rotate(20deg);
+}
+100%{
+  transform: rotate(0deg);
+}
+}
+@keyframes rotationFleche1 {
+0% {
+  transform: rotate(0deg);
+}
+30%{
+  transform: rotate(-5deg);
+}
+60%{
+  transform: rotate(5deg);
+}
+100%{
+  transform: rotate(0deg);
+}
+}
+
+.imageM{
+animation: rotationFleche1 0.4s ;
+}
+
+.img_traitement:hover{
+animation: rotationFleche 0.4s ;
+}
+
+.img_traitement{
+
+height: 35px;
+padding-top: 20px;
+width: 150px;
+
+}
+
+@keyframes rotationFleche2 {
+0% {
+  transform: rotate(0deg);
+}
+30%{
+  transform: rotate(-20deg);
+}
+60%{
+  transform: rotate(20deg);
+}
+100%{
+  transform: rotate(0deg);
+}
+}
+
+.img_accepte{
+
+height: 35px;
+padding-top: 20px;
+width: 150px;
+
+}
+
+.img_accepte:hover{
+animation: rotationFleche 0.4s ;
+}
+
+.img_rejete{
+
+height: 35px;
+padding-top: 60px;
+width: 150px;
+}
+
+.img_rejete:hover{
+animation: rotationFleche 0.4s ;
+}
+
+.Motif_rejet{
+
+padding-top: 15px;
+padding-right: 0px;
+text-align: center;
+
+
+}
+
+.Motif_rejet2{
+
+font-weight: bold;
+text-decoration: underline;
+padding-right: 5px;
+color:rgb(255, 10, 10);
+
+font-size: 25px;
+}

@@ -1,0 +1,288 @@
+
+.creationRequete{
+
+  text-align: center;
+    border: 3px rgb(212, 16, 16) solid;
+    height:427px;
+    width:700px;
+    position: absolute;
+      left: 155px;
+        bottom: 30px;
+    
+    padding: 20px;
+    
+    background-image:url('../Styles/Images/16.png');
+    color : black; 
+    word-wrap: break-word;
+    overflow: scroll;   
+    
+} 
+.header_requete{
+
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: underline;
+  color:chocolate;
+
+}
+
+.nom_requete{
+
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+
+  position: absolute;
+  top: 90px;
+  left: 20px;
+
+}
+
+.input_requete{
+  height: 25px;
+   width:250px;
+  border:none;
+  background-color: transparent;
+  font-size: 18px;
+}
+
+.email_requete{
+
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+ position: absolute;
+ top: 150px;
+ left: 20px
+
+}
+
+.role_requete{
+
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+ position: absolute;
+ top: 90px;
+ left: 520px
+
+}
+.input_role_requete{
+  height: 25px;
+   width: 150px;
+  border:none;
+  background-color: transparent;
+  font-size: 18px;
+}
+
+.nom_appli_requete{
+
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+ position: absolute;
+ top: 210px;
+ left: 20px
+}
+
+.input_nom_appli_requete{
+
+  height: 25px;
+  width:300px;
+ border:none;
+ border-bottom: 1px solid black;
+ background-color: transparent;
+ font-size: 18px;
+ 
+}
+
+
+.nom_domaine_appli_requete{
+
+ font-weight: bold;
+ font-size: 18px;
+ color: black;
+ position: absolute;
+ top: 270px;
+ left: 20px
+}
+.input_nom_domaine_appli_requete{
+  height: 25px;
+  width:200px;
+ border:none;
+ border-bottom: 1px solid black;
+ background-color: transparent;
+ font-size: 18px;
+ 
+}
+
+.numero_resp_requete{
+
+  font-weight: bold;
+ font-size: 18px;
+ color: black;
+ position: absolute;
+ top: 150px;
+ left: 520px
+}
+
+.input_numero_resp_requete{
+  height: 25px;
+  width:130px;
+ border:none;
+ border-bottom: 1px solid black;
+ background-color: transparent;
+ font-size: 18px;
+ 
+}
+
+.numero_resp_requeteA{
+
+  font-weight: bold;
+ font-size: 18px;
+ color: black;
+ position: absolute;
+ top: 150px;
+ left: 500px
+}
+
+.input_numero_resp_requeteA{
+  height: 25px;
+  width:155px;
+ border:none;
+ border-bottom: 1px solid black;
+ background-color: transparent;
+ font-size: 18px;
+ 
+}
+
+.vente_application{
+
+  font-weight: bold;
+ font-size: 18px;
+ color: black;
+ position: absolute;
+ top: 330px;
+ left: 20px
+}
+.input_vente_application{
+  height: 25px;
+  width:325px;
+ border:none;
+ border-bottom: 1px solid black;
+ background-color: transparent;
+ font-size: 18px;
+ 
+}
+
+.label_specifications{
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+  position: absolute;
+  top: 390px;
+  left: 20px;
+  height: 55px;
+
+}
+.input_specifications_application{
+
+ height: 90px;
+  width:400px;
+  position: absolute;
+  top: 390px;
+  left: 200px;
+ line-height: 30px;
+ border: 1px solid black;
+ border-radius: 5px;
+ background-color: transparent;
+ font-size: 18px;
+ 
+
+}
+.orange{
+
+  font-weight: bold;
+  text-decoration: underline;
+  padding-bottom: 10px;
+}
+
+.element_services_requete {
+  padding:10px;
+}
+
+.services_Orange_requete{
+
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+  position: absolute;
+  top: 520px;
+  left: 50px
+}
+.services_MTN_requete{
+  font-weight: bold;
+  font-size: 18px;
+  color: black;
+  position: absolute;
+  top: 520px;
+  left: 500px
+}
+
+.soumettre_requete{   
+  
+  font-weight: bold;
+  font-size: 15px;
+
+   position: absolute;
+	 top: 750px;
+	 left: 400px;	
+
+   height: 35px;
+   width:135px;
+
+   cursor: pointer;
+   border-radius: 8px;
+
+   border: 1px black solid;
+  
+}
+
+.btn_annulerR{
+
+  font-weight: bold;
+  font-size: 15px;
+
+   position: absolute;
+	 top: 750px;
+	 left: 200px;	
+
+   height: 35px;
+   width:135px;
+
+   cursor: pointer;
+   border-radius: 8px;
+
+   border: 1px black solid;
+}
+
+input[type="email"]:focus{
+	outline:none;
+}
+input[type="text"]:focus{
+	
+	outline:none
+}
+
+.padding_spaceSouscriptionService{
+
+  position:absolute;
+  top:800px;
+  height: 25px;
+  width:35px;
+ border:none;
+ 
+ background-color: transparent;
+ font-size: 18px;
+
+}

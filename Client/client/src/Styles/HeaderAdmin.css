@@ -1,0 +1,138 @@
+
+header{
+	
+	position: fixed;
+top: 0;
+left: 0;
+bottom: 500px;
+right: 0;
+overflow: auto;      
+	background-color:#eb1a00;
+	
+}
+
+.partie:hover{
+  cursor: pointer;
+  color: beige;
+  text-decoration: underline;
+}
+
+
+.title{
+	
+	color:beige;
+  font-family: cursive;
+	position: fixed; 
+	right: 20px;
+    top: 20px;
+    font-size: 90px;
+    text-shadow: 0 0 10px beige;
+}
+
+.info_user{
+	 
+     font-size: 18px;
+     padding-left:10px;
+     margin-bottom: 0px;
+     line-height: 0.8em;
+  color:#151111;
+    font-style: italic;
+}
+
+.ajout_admin{
+
+  font-style: italic;
+text-decoration: none;
+	position: absolute; 
+	right: 730px;
+    bottom: 40px;
+	font-size: 20px;
+	cursor: pointer;
+	font-weight: bold;
+  color:black;
+  cursor: pointer;
+}
+
+.img_ajout_admin{
+  height: 50px;
+	width: 50px;
+  
+	position: absolute; 
+	right: 990px;
+  bottom: 25px;
+	
+	border-radius: 70%;
+	cursor: pointer;
+}
+
+
+.img_edit_profil{
+
+	height: 50px;
+	width: 50px;
+  
+	position: absolute; 
+	right: 640px;
+  bottom: 25px;
+	
+	border-radius: 70%;
+	cursor: pointer;
+}
+
+.edit_profil{
+
+font-style: italic;
+text-decoration: none;
+	position: absolute; 
+	right: 470px;
+    bottom: 40px;
+	font-size: 20px;
+	cursor: pointer;
+	font-weight: bold;
+  color:black;
+  cursor: pointer;
+	 
+}
+
+.img_deconnexion{
+
+  
+  height: 50px;
+	width: 50px;
+  border-radius: 70%;
+    position: absolute; 
+    right: 380px;
+      bottom: 25px;
+   color:#151111;
+    cursor: pointer;
+  }
+  .deconnexon{
+	
+	font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+      position: absolute; 
+      right: 250px;
+        bottom: 40px;
+      font-size: 20px;
+      cursor: pointer;
+      color:#151111;
+    }
+    
+
+.edit_profil:hover{
+
+	text-decoration: underline;
+  color: beige;
+}
+.ajout_admin:hover{
+  text-decoration: underline;
+  color: beige;
+}
+
+.deconnexon:hover{
+
+	text-decoration: underline;
+	 color: beige;
+}   
+

@@ -1,0 +1,42 @@
+
+
+.listeDemandeClient{
+
+  border: 3px rgb(212, 16, 16) solid;
+  height:467px;
+  width:740px;
+  position: absolute;
+    left: 155px;
+      bottom: 30px;
+  
+  padding: 0px;
+  padding-left: 0px;
+  padding-right: 0px;
+  
+  background-image:url('../Styles/Images/16.png');
+  color : black; 
+  word-wrap: break-word;
+  overflow: scroll;   
+}
+
+.numero_demandeclient{
+
+  font-size: 20px;
+  font-weight: bold;
+  font-style: italic;
+  padding-bottom: 10px;
+  text-decoration: underline;
+  color: maroon;
+  
+}
+
+.element_demandeStatut{
+
+  font-size: 18px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-top: 30px;
+  color: red;
+  font-style: italic;
+  font-family:'Times New Roman', Times, serif;
+}

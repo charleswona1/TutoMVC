@@ -1,0 +1,87 @@
+
+.Modifer_services{
+
+
+  text-align: center;
+    border: 3px rgb(212, 16, 16) solid;
+    height:427px;
+    width:1170px;
+    position: absolute;
+      left: 155px;
+        bottom: 30px;
+    
+    padding: 20px;
+    
+    background-image:url('../Styles/Images/16.png');
+    color : black;
+    word-wrap: break-word;
+    overflow: scroll;  
+}
+
+.etat{
+
+  position: absolute;
+  top: 350px;
+  left: 800px;
+}
+
+.elementEtat{
+
+  padding: 10px;
+  font-weight: bold;
+}
+
+.headerEtat{
+
+  font-weight: bold;
+font-size: 20px;
+padding-top:35px;
+padding-bottom: 8px;
+text-decoration: underline;
+font-style: italic;
+text-align: center;
+color:red;
+
+}
+
+.creer_serviceModify{
+
+  font-weight: bold;
+  font-size: 15px;
+
+   position: absolute;
+	 top: 600px;
+	 left: 630px;	
+
+   height: 35px;
+   width:150px;
+
+   cursor: pointer;
+   border-radius: 8px;
+
+   border: 1px black solid;
+}
+
+.btn_annulerModify2{
+
+  font-weight: bold;
+  font-size: 15px;
+
+   position: absolute;
+	 top: 600px;
+	 left: 360px;	
+
+   height: 35px;
+   width:135px;
+
+   cursor: pointer;
+   border-radius: 8px;
+
+   border: 1px black solid;
+}
+.padding_spaceParticulier{
+  position: absolute;
+  top: 680px;
+  background-color: transparent;
+  border: none;
+}

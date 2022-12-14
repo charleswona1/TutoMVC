@@ -1,0 +1,143 @@
+
+.ListeRequete1{
+
+  border: 3px rgb(212, 16, 16) solid;
+  height:427px;
+  width:1170px;
+  position: absolute;
+    left: 155px;
+      bottom: 30px;
+  
+  padding: 20px;
+  
+  background-image:url('../Styles/Images/16.png');
+  color : black;
+  word-wrap: break-word;
+  overflow: scroll;   
+
+
+}
+
+.req_traitement1{
+
+font-size: 40px;
+text-align: center;
+padding: 10px;
+font-weight: bold;
+color:rgb(9, 89, 238);
+text-decoration: underline;
+font-family:'Times New Roman', Times, serif;
+}
+.message_req_vide1{
+
+font-size: 20px;
+font-style: italic;
+text-align: center;
+padding: 10px;
+}
+
+
+.info_requete1{
+
+width: 530px;
+float:left;
+
+}
+.services_requete1{
+
+height: 360px;
+padding-bottom: 30px;
+border-bottom: 1px solid red;
+border-top: 1px solid red;
+
+}
+.services_requeteAdmin{
+
+  height: 330px;
+  padding-bottom: 30px;
+  border-bottom: 1px solid red;
+  border-top: 1px solid red;
+  
+  }
+
+.numero_requete1{
+
+font-weight: bold;
+padding:5px;
+text-align: left;
+text-decoration: underline;
+font-style: italic;
+color: red;
+}
+
+.element_requete1{
+
+padding: 8px;
+
+
+}
+.element_requete21{
+font-weight: bold;
+text-decoration: underline;
+padding-right: 5px;
+font-size: 18px;
+}
+
+
+.header_service_requete1{
+font-weight: bold;
+padding-top:35px;
+padding-bottom: 8px;
+text-decoration: underline;
+font-style: italic;
+text-align: center;
+color:red;
+
+}
+
+.services_orange1{
+
+font-weight: bold;
+padding-bottom: 8px;
+text-align: center;
+text-decoration: underline;
+color:blue;
+
+
+}
+
+.nom_service1{
+padding-bottom: 20px;
+text-align: center;
+}
+
+.nom_service21{
+
+font-weight: bold;
+text-decoration: underline;
+padding-right: 5px;
+
+font-size: 15px;
+
+}
+
+
+
+
+
+.traiter_requete{
+
+font-weight: bold;
+font-size: 15px;	
+height: 35px;
+width:155px;
+cursor: pointer;
+border-radius: 8px;
+border: 1px black solid;
+}
+
+.div_button{
+padding-top: 10px;
+padding-right: 100px;
+text-align: right;
+}

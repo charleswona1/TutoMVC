@@ -1,0 +1,182 @@
+
+
+.ConsulterServices{
+  border: 3px rgb(212, 16, 16) solid;
+  height:427px;
+  width:1170px;
+  position: absolute;
+    left: 155px;
+      bottom: 30px;
+  
+  padding: 20px;
+  
+  background-image:url('../Styles/Images/16.png');
+  color : black; 
+  word-wrap: break-word;
+  overflow: scroll;   
+
+}
+
+.ConsulterServicesClient{
+
+border: 3px rgb(212, 16, 16) solid;
+height:427px;
+width:703px;
+position: absolute;
+  left: 155px;
+    bottom: 30px;
+
+padding: 20px;
+
+background-image:url('../Styles/Images/16.png');
+color : black; 
+word-wrap: break-word;
+overflow: scroll;   
+
+}
+
+.Info_ServicesC{
+width: 740px;
+float:left; 
+
+}
+
+.titleOrange{
+
+font-size: 25px;
+padding-bottom: 10px;
+color:rgb(9, 89, 238);
+font-family:'Times New Roman', Times, serif;
+text-align: center;
+font-weight: bold;
+text-decoration: underline;
+border-bottom: 1px solid red;
+}
+
+.servicesC{
+
+padding-top:5px;
+word-wrap: break-word;
+  overflow: scroll; 
+}
+
+.elelement_serviceCC{
+padding-bottom: 5px;
+color: red;
+font-style: italic;
+font-weight: bold;
+font-size: 18px;
+}
+
+.elelement_serviceCC2{
+
+font-weight: bold;
+text-decoration: underline;
+font-size: 18px;
+
+}
+.element_serviceDescription{
+
+line-height: 40px;
+
+}
+
+.elelement_serviceC{
+padding-top: 5px;
+padding-bottom: 5px;
+
+font-size: 16px;
+}
+
+.elelement_serviceC2{
+
+font-weight: bold;
+text-decoration: underline;
+font-size: 17px;
+
+}
+
+.parametresS{
+font-weight: bold;
+text-decoration: underline;
+font-size: 18px;
+color: rgb(39, 121, 57);
+font-style: italic;
+padding-bottom: 5px;
+}
+
+
+.En_attente{
+
+color: red;
+font-size: 18px;
+font-weight: bold;
+font-style: italic;
+padding-top: 10px;
+padding-left: 450px;
+padding-bottom: 10px;
+
+}
+.En_maintenance{
+
+color: orange;
+font-size: 18px;
+font-weight: bold;
+font-style: italic;
+padding-top: 10px;
+padding-left: 450px;
+padding-bottom: 10px;
+
+}
+
+.sucess{
+color: green;
+font-size: 18px;
+font-weight: bold;
+font-style: italic;
+padding-top: 10px;
+padding-left: 450px;
+padding-bottom: 10px;
+
+}
+
+.Info_ServicesECommercant{
+width: 400px;
+float:left; 
+
+}
+
+.elelement_serviceDescription{
+padding-top: 5px;
+padding-bottom: 5px;
+line-height: 30px;
+font-size: 16px;
+}
+.img_modifier{
+
+height: 25px;
+width: 25px;
+opacity: 0.5;
+padding-left: 650px;
+cursor: pointer;
+position: absolute;
+right: 50px;
+
+}
+.img_passwordA{
+
+height: 25px;
+width: 25px;
+opacity: 0.6;
+position: absolute;
+right: 300px;
+float: right;
+}
+
+.Aucun_service{
+
+font-weight: bold;
+text-align: center;
+padding: 20px;
+font-style: italic;
+}

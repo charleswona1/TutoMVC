@@ -1,0 +1,74 @@
+
+
+.paiement{
+
+  text-align: center;
+  border: 3px rgb(212, 16, 16) solid;
+  height:427px;
+  width:1170px;
+  position: absolute;
+    left: 155px;
+      bottom: 30px; 
+  
+  padding: 20px;
+  
+  background-image:url('../Styles/Images/16.png');
+  color : black; 
+  word-wrap: break-word;
+  overflow: scroll;   
+
+}
+
+.blocpaiement{
+
+  float: left;
+  border-right: 1px solid red;
+  
+}
+
+.emailrequete{
+  
+  font-size: 18px;
+  font-weight: bold;
+  padding-bottom: 5px;
+  text-decoration: underline; 
+  
+}
+
+.nomservice{
+  
+  font-weight: bold;
+  text-decoration: underline;
+  font-style: italic;
+  color: red;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+}
+
+.info_Req_Paiement{
+
+ padding-right: 50px;
+ padding-left: 50px; 
+  
+}
+.info_paiement{
+  font-weight: bold;
+  padding-right: 7px;
+}
+
+.infoReq{
+  padding-top: 10px;
+}
+
+
+.validerpaiement{
+
+ font-weight: bold;
+ padding: 10px;
+ border-radius: 5%;
+ cursor: pointer;
+ position: absolute;
+ top:400px;
+ left: 500px;
+}
